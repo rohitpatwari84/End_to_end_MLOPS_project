@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "End_to_end_MLOPS_project"
-AUTHOR_USER_NAME = "live4rush"
+AUTHOR_USER_NAME = "rohitpatwari84"
 SRC_REPO = "mlProject"
-AUTHOR_EMAIL = "nnaveen356@gmail.com"
+AUTHOR_EMAIL = "rohitpatwari@gmail.com"
 
 
 setuptools.setup(
